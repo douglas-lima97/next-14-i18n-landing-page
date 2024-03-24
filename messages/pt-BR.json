@@ -1,0 +1,59 @@
+{
+    "layout": {
+        "navigation": {
+            "home": "Página inicial",
+            "all": "Todos os NFTs",
+            "team": "Equipe",
+            "terms": "Termos & Co.",
+            "contact": "Contato"
+        },
+        "header": {
+            "brand": "KNFT.",
+            "getInTouch": "Entrar em contato"
+        },
+        "footer": {
+            "copyright": "Copyright © 2022 Nazmul Shanto. Todos os direitos reservados",
+            "socialMedia": {
+                "email": {
+                    "gmail": "exemplo@gmail.com",
+                    "yahoo": "exemplo@yahoo.com"
+                },
+                "telegram": {
+                    "title": "Nós estamos no Telegram",
+                    "account": "@SampleTelegram"
+                },
+                "phone": {
+                    "primary": "+55 11 91234-5678",
+                    "secondary": "+55 11 98765-4321"
+                }
+            }
+        }
+    },
+    "home": {
+        "callToAction": {
+            "title": "Compre, Crie & Venda Arquivos de NFTs Únicos",
+            "subtitle": "NFTs são usados para arte digital e colecionáveis, projetos GameFi, metaverso, e mais.",
+            "button": "Explorar NFTs"
+        },
+        "overview": {
+            "title": "Visão geral de Nico NFT Marketplace",
+            "worldArts": "Artes Mundiais",
+            "digitalArtists": "Artistas Digitais",
+            "liveAuctions": "Leilões Ao Vivo",
+            "uniqueProducts": "Produtos Únicos"
+        },
+        "popular": {
+            "title": "NFTs Mais Populares",
+            "option": {
+                "all": "Todos",
+                "hapePrime": "Hape Prime",
+                "lazyLions": "Lazy Lyons",
+                "peacefulApe": "Peaceful Ape"
+            },
+            "action": {
+                "buy": "Comprar produto",
+                "explore": "Explorar Todos os NFTs"
+            }
+        }
+    }
+}

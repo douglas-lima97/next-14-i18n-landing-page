@@ -1,0 +1,59 @@
+{
+    "layout": {
+        "navigation": {
+            "home": "Home",
+            "all": "All NFTs",
+            "team": "Team",
+            "terms": "Terms & Co.",
+            "contact": "Contact"
+        },
+        "header": {
+            "brand": "KNFT.",
+            "getInTouch": "Get in Touch"
+        },
+        "footer": {
+            "copyright": "Copyright © 2022 Nazmul Shanto. All Rights Reserved",
+            "socialMedia": {
+                "email": {
+                    "gmail": "example@gmail.com",
+                    "yahoo": "sample@yahoo.com"
+                },
+                "telegram": {
+                    "title": "We are on Telegram",
+                    "account": "@SampleTelegram"
+                },
+                "phone": {
+                    "primary": "+55 11 91234-5678",
+                    "secondary": "+55 11 98765-4321"
+                }
+            }
+        }
+    },
+    "home": {
+        "callToAction": {
+            "title": "Buy, Create & Sell Unique NFTs File.",
+            "subtitle": "NFTs are used for digital art and collectibles, GameFi projects, metaverses, and more.",
+            "button": "Explore NFTs"
+        },
+        "overview": {
+            "title": "Nico NFT Marketplace Overview",
+            "worldArts": "World Arts",
+            "digitalArtists": "Digital Artists",
+            "liveAuctions": "Live Auctions",
+            "uniqueProducts": "Unique Products"
+        },
+        "popular": {
+            "title": "Most Popular NFTs",
+            "option": {
+                "all": "All",
+                "hapePrime": "Hape Prime",
+                "lazyLions": "Lazy Lyons",
+                "peacefulApe": "Peaceful Ape"
+            },
+            "action": {
+                "buy": "Buy Product",
+                "explore": "Explore All NFTs"
+            }
+        }
+    }
+}
